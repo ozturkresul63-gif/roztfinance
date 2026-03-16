@@ -10,3 +10,7 @@ This project fetches market data from an AP and displays it in a graphical inter
 - Market table display
 - Interactive charts
 - Tkinter GUI
+
+## Screenshot
+
+![App](screenshot.png)
