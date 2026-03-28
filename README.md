@@ -1,4 +1,4 @@
-# ROZT Finance
+# Finance App
 
 A Python desktop aplcation built with Tkinter.
 
